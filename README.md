@@ -12,4 +12,3 @@ Algorithms used:
 Execution: 
   1. Clone or download de git repository
   2. Run 'java -jar "guiQAP.jar" '
->>>>>>> fa1b4c33af72aef83cec3cb829d8df61cc07f89c
