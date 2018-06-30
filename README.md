@@ -2,7 +2,12 @@
 
 Grapichs interface (Model-View-Controller) to solve the Quadratic Assignment Problem in JAVA.
 
-Algorithms used: BL, ES, BMB, ILS, ILS-ES.
+Algorithms used: 
+  - LB (Local Search using "Dont Look Bits" and "factorized cost").
+  - ES (Simulated Annealing).
+  - BMB (Multi Boot).
+  - ILS (Iterated Local Search).
+  - ILS-ES (Hybrid).
 
 Execution: 
   1. Clone or download de git repository
