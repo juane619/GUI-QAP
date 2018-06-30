@@ -14,6 +14,6 @@ Execution:
   2. Run 'java -jar "guiQAP.jar" '
 
 Use: 
-1.	Chargue the instance (different in size)
+1.	Chargue the instance (different in size).
 2.	Choose the algorithm.
 3.	Solve and print the time, cost and solution.
