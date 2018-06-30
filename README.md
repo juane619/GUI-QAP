@@ -11,7 +11,7 @@ Algorithms used:
 
 Execution: 
   1. Clone or download de git repository
-  2. Run 'java -jar "guiQAP.jar" '
+  2. Run 'java -jar "guiQAP.jar" ' or double click in .jar file (open with Java).
 
 Use: 
 1.	Chargue the instance (different in size).
